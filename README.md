@@ -10,8 +10,9 @@ Just finished Flatiron Bootcamp
 ## Blog
 <br>
 Check out my blog!
+<br>
 <a href="https://dev.to/zemorath" target="_blank">
-  <img src="https://icons8.com/icon/5Ji09oEPOxHk/dev-to" alt="Dev.to Icon" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="Dev.to Icon" width="40" height="40"/>
 </a>
 
 ## Contact Me
