@@ -2,9 +2,9 @@
 <br>
 
 Hello! 👋
-<hr>
+<br>
 Based in Austin
-<hr>
+<br>
 Just finished Flatiron Bootcamp
 
 ## Blog
