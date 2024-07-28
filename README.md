@@ -9,7 +9,10 @@ Just finished Flatiron Bootcamp
 
 ## Blog
 <br>
-Check out my blog on [Dev.to](https://dev.to/zemorath).
+Check out my blog!
+<a href="https://dev.to/zemorath" target="_blank">
+  <img src="https://icons8.com/icon/5Ji09oEPOxHk/dev-to" alt="Dev.to Icon" width="40" height="40"/>
+</a>
 
 ## Contact Me
 <br>
@@ -20,17 +23,27 @@ Check out my blog on [Dev.to](https://dev.to/zemorath).
 ## Core Competencies
 <br>
 - Python
+<br>
 - Flask
+<br>
 - JavaScript
+<br>
 - React
+<br>
 - SQL
+<br>
 - SQLAlchemy
+<br>
 - HTML
+<br>
 - CSS
+<br>
 - Data Analysis
-- Machine Learning
+<br>
 - Data Visualization
+<br>
 - Problem Solving
+<br>
 - Analytical Thinking
 
 ## GitHub Stats
