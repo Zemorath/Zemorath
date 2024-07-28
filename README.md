@@ -33,7 +33,7 @@ Check out my blog on [Dev.to](https://dev.to/zemorath).
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)
 
 ## I’m currently learning:
 
