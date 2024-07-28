@@ -18,6 +18,9 @@ Check out my blog!
 <a href="https://www.linkedin.com/in/trentward100/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" />
 </a>
+<a href="https://x.com/trentward100">
+  <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="X Icon" width="48" height="48"/>
+</a>
 
 ## Core Competencies
 - Python
