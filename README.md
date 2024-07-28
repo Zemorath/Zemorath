@@ -48,8 +48,8 @@ Check out my blog!
 - Analytical Thinking
 
 ## GitHub Stats
-<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)
+
+[![Zemorath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)](https://github.com/Zemorath/github-readme-stats)
 
 ## I’m currently learning:
 <br>
