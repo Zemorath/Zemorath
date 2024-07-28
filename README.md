@@ -8,7 +8,6 @@ Based in Austin
 Just finished Flatiron Bootcamp
 
 ## Blog
-<br>
 Check out my blog!
 <br>
 <a href="https://dev.to/zemorath" target="_blank">
@@ -16,35 +15,22 @@ Check out my blog!
 </a>
 
 ## Contact Me
-<br>
 <a href="https://www.linkedin.com/in/trentward100/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" />
 </a>
 
 ## Core Competencies
-<br>
 - Python
-<br>
 - Flask
-<br>
 - JavaScript
-<br>
 - React
-<br>
 - SQL
-<br>
 - SQLAlchemy
-<br>
 - HTML
-<br>
 - CSS
-<br>
 - Data Analysis
-<br>
 - Data Visualization
-<br>
 - Problem Solving
-<br>
 - Analytical Thinking
 
 ## GitHub Stats
@@ -52,8 +38,8 @@ Check out my blog!
 [![Zemorath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)](https://github.com/Zemorath/github-readme-stats)
 
 ## I’m currently learning:
-<br>
 Expanding my skillset by studying GO and Machine Learning.
+<br>
 Would love to work on better tools for Dungeons and Dragons and video games!
 
 <!--
