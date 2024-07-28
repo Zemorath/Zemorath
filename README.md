@@ -1,7 +1,8 @@
 # About me
 <br>
-## Hi there 👋
 
+Hello! 👋
+<hr>
 Based in Austin
 <hr>
 Just finished Flatiron Bootcamp
