@@ -5,7 +5,7 @@ Hello! 👋
 <br>
 Based in Austin
 <br>
-Software Developer with an interest in AI
+Junior Software Developer with an interest in AI
 
 ## In Progress
 I am currently developing a Discord bot that allows users to add books to their libraries and scrapes the internet for good prices!
