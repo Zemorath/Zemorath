@@ -1,3 +1,5 @@
+![Header](https://i.imgur.com/Gxb87x8.png)
+
 <h1 style='color: teal; font-family: Times New Roman;'>About me</h1>
 
 Hello! 👋
