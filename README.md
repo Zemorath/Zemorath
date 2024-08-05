@@ -37,19 +37,18 @@ I am currently developing a Discord bot that allows users to add books to their 
 - Problem Solving
 - Analytical Thinking
 
-## GitHub Stats
-
-[![Zemorath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)](https://github.com/Zemorath/github-readme-stats)
-
 ## I’m currently learning:
 - GO
 - Machine Learning
 - Blockchain
-<br>
 
 ## Future Projects
 
 - Discord bots and AI applications for Roleplaying Games
+
+## GitHub Stats
+
+[![Zemorath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)](https://github.com/Zemorath/github-readme-stats)
 
 
 <!--
