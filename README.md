@@ -5,10 +5,14 @@ Hello! 👋
 <br>
 Based in Austin
 <br>
-Just finished Flatiron Bootcamp
+Software Developer with an interest in AI
+
+## Project I am Currently Working on
+I am currently developing a Discord bot that allows users to add books to their libraries and scrapes the internet for good prices!
 
 ## Blog
 Check out my blog!
+<br>
 <br>
 <a href="https://dev.to/zemorath" target="_blank">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="Dev.to Icon" width="40" height="40"/>
