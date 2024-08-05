@@ -7,13 +7,10 @@ Based in Austin
 <br>
 Software Developer with an interest in AI
 
-## Project I am Currently Working on
+## In Progress
 I am currently developing a Discord bot that allows users to add books to their libraries and scrapes the internet for good prices!
 
-## Blog
-Check out my blog!
-<br>
-<br>
+## Check out my blog!
 <a href="https://dev.to/zemorath" target="_blank">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="Dev.to Icon" width="40" height="40"/>
 </a>
@@ -45,9 +42,15 @@ Check out my blog!
 [![Zemorath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)](https://github.com/Zemorath/github-readme-stats)
 
 ## I’m currently learning:
-Expanding my skillset by studying GO and Machine Learning.
+- GO
+- Machine Learning
+- Blockchain
 <br>
-Would love to work on better tools for Dungeons and Dragons and video games!
+
+## Future Projects
+
+- Discord bots and AI applications for Roleplaying Games
+
 
 <!--
 **Zemorath/Zemorath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
