@@ -8,7 +8,7 @@ Based in Austin
 Junior Software Developer with an interest in AI
 
 ## In Progress
-I am currently developing a Discord bot that allows users to add books to their libraries and scrapes the internet for good prices!
+I am currently developing a Discord bot that allows users to add books to their libraries and scrape the internet for good prices!
 
 ## Check out my blog!
 <a href="https://dev.to/zemorath" target="_blank">
