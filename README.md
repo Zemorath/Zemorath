@@ -1,5 +1,4 @@
-# About me
-<br>
+<h1 style='color: teal; font-family: Times New Roman;'>About me</h1>
 
 Hello! 👋
 <br>
