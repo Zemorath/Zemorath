@@ -9,7 +9,7 @@ Junior Software Developer with an interest in AI based in Austin
 Most recently developed a book bot for Discord with the following features!
 
 ### Features
-✅ Allows users to search for books
+✅ Allows users to search for books<br>
 ✅ Allows users to add books to bot library<br>
 ✅ Allows users to rate books in library<br>
 ✅ Allows searches within bot library<br>
@@ -22,8 +22,8 @@ Most recently developed a book bot for Discord with the following features!
 ## In Progress
 **RPG Nexus**
 Website allowing users to create and maintain tabletop rpg characters and campaigns across multiple rpg systems including some of your favorites!<br>
-✅ Base database structure complete
-✅ Allows for information from multiple systems
+✅ Base database structure complete<br>
+✅ Allows for information from multiple systems<br>
 
 
 ## Core Competencies
