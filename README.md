@@ -21,7 +21,7 @@ Most recently developed a book bot for Discord with the following features!
 
 ## In Progress
 **RPG Nexus**<br>
-Website allowing users to create and maintain tabletop rpg characters and campaigns across multiple rpg systems including some of your favorites!<br>
+Website allowing users to create and maintain tabletop rpg characters and campaigns across multiple systems including some of your favorites!<br>
 ✅ Base database structure complete<br>
 ✅ Allows for information from multiple systems<br>
 
