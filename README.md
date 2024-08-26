@@ -20,7 +20,7 @@ Most recently developed a book bot for Discord with the following features!
 ✅ Users can opt in to book club<br>
 
 ## In Progress
-**RPG Nexus**
+**RPG Nexus**<br>
 Website allowing users to create and maintain tabletop rpg characters and campaigns across multiple rpg systems including some of your favorites!<br>
 ✅ Base database structure complete<br>
 ✅ Allows for information from multiple systems<br>
