@@ -6,16 +6,25 @@ Hello! 👋
 <br>
 Junior Software Developer with an interest in AI based in Austin
 
-## In Progress
-I am currently developing a Discord bot that allows users to add books to their libraries and scrape the internet for prices!
+Most recently developed a book bot for Discord with the following features!
+
 ### Features
-✅ Prompts users for book title<br>
-✅ Scrapes HPB website for book info and creates listings<br>
-✅ Pulls ISBN for whichever book is chosen<br>
-✅ Scrapes BookFinder with ISBN to compare prices<br>
+✅ Allows users to search for books
 ✅ Allows users to add books to bot library<br>
-❌ Allows users to rate books in library<br>
-❌ Allows searches within bot library<br>
+✅ Allows users to rate books in library<br>
+✅ Allows searches within bot library<br>
+✅ Users can mark top ten<br>
+✅ Server admins can start book club events<br>
+✅ Admins can specify time period<br>
+✅ Admins can choose to hold votes for next book<br>
+✅ Users can opt in to book club<br>
+
+## In Progress
+**RPG Nexus**
+Website allowing users to create and maintain tabletop rpg characters and campaigns across multiple rpg systems including some of your favorites!<br>
+✅ Base database structure complete
+✅ Allows for information from multiple systems
+
 
 ## Core Competencies
 - Python
