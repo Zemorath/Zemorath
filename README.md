@@ -24,6 +24,12 @@ Most recently developed a book bot for Discord with the following features!
 Website allowing users to create and maintain tabletop rpg characters and campaigns across multiple systems including some of your favorites!<br>
 ✅ Base database structure complete<br>
 ✅ Allows for information from multiple systems<br>
+✅ Populates races, classes, ability scores, items, and more system specific information for you to choose from!
+✅ Calculates ability scores for you
+✅ Forms to fill out characteristics
+✅ Character summary page
+✅ Now generates PDF for Dungeons and Dragons! (Working on more)
+
 
 
 ## Core Competencies
