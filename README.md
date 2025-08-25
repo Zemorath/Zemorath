@@ -1,89 +1,74 @@
+# Trent Ward
+
 ![Header](https://i.imgur.com/Gxb87x8.png)
 
-<h1 align='center'>About me</h1>
-
-Hello! 👋
-<br>
-Junior Software Developer with an interest in AI based in Austin
-
-Most recently developed a book bot for Discord with the following features!
-
-### Features
-✅ Allows users to search for books<br>
-✅ Allows users to add books to bot library<br>
-✅ Allows users to rate books in library<br>
-✅ Allows searches within bot library<br>
-✅ Users can mark top ten<br>
-✅ Server admins can start book club events<br>
-✅ Admins can specify time period<br>
-✅ Admins can choose to hold votes for next book<br>
-✅ Users can opt in to book club<br>
-
-## In Progress
-**RPG Nexus**<br>
-Website allowing users to create and maintain tabletop rpg characters and campaigns across multiple systems including some of your favorites!<br>
-✅ Base database structure complete<br>
-✅ Allows for information from multiple systems<br>
-✅ Populates races, classes, ability scores, items, and more system specific information for you to choose from!<br>
-✅ Calculates ability scores for you<br>
-✅ Forms to fill out characteristics<br>
-✅ Character summary page<br>
-✅ Now generates PDF for Dungeons and Dragons! (Working on more)<br>
-
-
+## About Me
+Hello! 👋 I'm Trent Ward, a Junior Software Developer based in Austin with a passion for AI and versatile coding solutions. With 3 years of hands-on coding experience, I've built projects spanning full-stack web applications, Discord bots, and data-driven tools. I'm eager to contribute to innovative teams in software engineering, data science, or AI roles.
 
 ## Core Competencies
-- Python
-- Flask
-- JavaScript
-- React
-- SQL
-- SQLAlchemy
-- HTML
-- CSS
-- Data Analysis
-- Data Visualization
-- Problem Solving
-- Analytical Thinking
+- **Programming Languages:** Python, JavaScript, Go, SQL
+- **Frameworks & Tools:** Flask, React, Redux, SQLAlchemy, RESTful APIs, Discord.py
+- **Data & Analytics:** Data Analysis, Data Visualization (Tableau, Power BI)
+- **Other Skills:** HTML/CSS, Problem Solving, Analytical Thinking, Project Management
 
-## What I’m currently learning:
-- GO
-- Machine Learning
-- Blockchain
+## Projects
+Here are some of my noteworthy projects. Check out the repositories for code and more details!
 
-## Check out my blog!
-<a href="https://dev.to/zemorath" target="_blank">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="Dev.to Icon" width="40" height="40"/>
-</a>
+### Video Game List (Highlighted - Hosting in Progress)
+A platform for users to manage and discover video games, featuring search, lists, and recommendations. Currently working on deploying the live website for public access.  
+- **Tech Stack:** JavaScript, React (frontend); Python, Flask (backend); SQLAlchemy for database management  
+- **Repository:** [github.com/Zemorath/video-game-list](https://github.com/Zemorath/video-game-list)  
+- **Key Features:** User authentication, game search via APIs, personalized lists, ratings, and community sharing.  
+- **Status:** In active development with hosting setup underway.
 
-## Contact Me
-<a href="https://www.linkedin.com/in/trentward100/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" />
-</a>
-<a href="https://x.com/trentward100">
-  <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="X Icon" width="48" height="48"/>
-</a>
+### Zeer (Discord Book Club Bot)
+A feature-rich Discord bot designed for book enthusiasts, enabling server-based book clubs with interactive tools.  
+- **Tech Stack:** Python, Discord.py, SQL, SQLAlchemy  
+- **Repository:** [github.com/Zemorath/Zeer](https://github.com/Zemorath/Zeer)  
+- **Key Features:**  
+  - Search and add books to a shared library  
+  - Rate books and mark top ten favorites  
+  - Admin tools for book club events, voting, and time periods  
+  - User opt-in for notifications  
+- **Impact:** Enhances community engagement in Discord servers.
+
+### RPG Nexus (In Progress)
+A web application for creating and managing tabletop RPG characters and campaigns across multiple systems like Dungeons & Dragons.  
+- **Tech Stack:** JavaScript, React (frontend); Python, Flask (backend); SQLAlchemy  
+- **Repository:** (Link not available in data; assume you'll add if pinned)  
+- **Key Features:**  
+  - Database population for races, classes, items, and ability scores  
+  - Automated calculations and forms for character creation  
+  - Summary pages and PDF exports (D&D complete; more systems coming)  
+- **Status:** Core structure complete, expanding features.
+
+### Travium
+A subscription management platform that consolidates services, reducing user management time.  
+- **Tech Stack:** JavaScript, React; Python, Flask; SQLAlchemy  
+- **Repository:** [github.com/Zemorath/Travium](https://github.com/Zemorath/Travium)  
+- **Key Features:** User-friendly interface for tracking subscriptions, data aggregation, and efficiency improvements (e.g., 40% time reduction).  
+- **Impact:** Demonstrates full-stack development with real-world utility.
+
+### Book-Bot
+An alternative Discord bot focused on book-related interactions, building on similar themes to Zeer.  
+- **Tech Stack:** Python  
+- **Repository:** [github.com/Zemorath/Book-Bot](https://github.com/Zemorath/Book-Bot)  
+- **Key Features:** Book searches, library management, ratings, and event hosting.
+
+## What I'm Currently Learning
+- Go  
+- Machine Learning  
+- Blockchain  
 
 ## Future Projects
+- Discord bots and AI applications for Roleplaying Games  
 
-- Discord bots and AI applications for Roleplaying Games
+## Check Out My Blog!
+[![Dev.to](https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png)](https://dev.to/zemorath)
+
+## Contact Me
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/trentward100/)  
+[![X (Twitter)](https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png)](https://x.com/trentward100)
 
 ## GitHub Stats
-
 [![Zemorath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)](https://github.com/Zemorath/github-readme-stats)
-
-
-<!--
-**Zemorath/Zemorath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
