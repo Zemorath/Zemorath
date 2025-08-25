@@ -63,12 +63,5 @@ An alternative Discord bot focused on book-related interactions, building on sim
 ## Future Projects
 - Discord bots and AI applications for Roleplaying Games  
 
-## Check Out My Blog!
-[![Dev.to](https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png)](https://dev.to/zemorath)
-
-## Contact Me
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/trentward100/)  
-[![X (Twitter)](https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png)](https://x.com/trentward100)
-
 ## GitHub Stats
 [![Zemorath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)](https://github.com/Zemorath/github-readme-stats)
