@@ -61,7 +61,15 @@ An alternative Discord bot focused on book-related interactions, building on sim
 - Blockchain  
 
 ## Future Projects
-- Discord bots and AI applications for Roleplaying Games  
+- Discord bots and AI applications for Roleplaying Games
+
+## Contact Me
+<a href="https://www.linkedin.com/in/trentward100/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" />
+</a>
+<a href="https://x.com/trentward100">
+  <img src="https://www.iconfinder.com/icons/11053970/download/png/48" alt="X Icon" width="48" height="48"/>
+</a>
 
 ## GitHub Stats
 [![Zemorath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemorath&show_icons=true&theme=radical)](https://github.com/Zemorath/github-readme-stats)
