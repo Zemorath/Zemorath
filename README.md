@@ -14,7 +14,7 @@ Hello! 👋 I'm Trent Ward, a Junior Software Developer based in Austin with a p
 ## Projects
 Here are some of my noteworthy projects. Check out the repositories for code and more details!
 
-### Video Game List (Highlighted - Hosting in Progress)
+### Video Game List (Hosting in Progress)
 A platform for users to manage and discover video games, featuring search, lists, and recommendations. Currently working on deploying the live website for public access.  
 - **Tech Stack:** JavaScript, React (frontend); Python, Flask (backend); SQLAlchemy for database management  
 - **Repository:** [github.com/Zemorath/video-game-list](https://github.com/Zemorath/video-game-list)  
